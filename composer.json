@@ -3,7 +3,7 @@
     "type"       : "wordpress-plugin",
     "description": "Saja test.",
     "homepage"   : "https://github.com/wzul/test-wp-p",
-    "version"    : "3.0",
+    "version"    : "3.2",
     "license"    : "GPL-2.0+",
     "require"    : {
         "composer/installers": "~1.0"
