@@ -3,7 +3,6 @@
     "description": "Saja test.",
     "homepage"   : "https://bitbucket.org/wanzul/wan-test-wp",
     "version"    : "3.0",
-    "type"       : "wordpress-plugin",
     "license"    : "GPL-2.0+",
     "require"    : {
         "composer/installers": "~1.0"
