@@ -1,5 +1,6 @@
 {
     "name"       : "wzul/test-wp-p",
+    "type"       : "wordpress-plugin",
     "description": "Saja test.",
     "homepage"   : "https://github.com/wzul/test-wp-p",
     "version"    : "3.0",
